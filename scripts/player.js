@@ -105,7 +105,6 @@ let frogger = new Frogger(357, 488);
 
 let score = 0;
 let lives = 3;
-let newLife = true;
 
 Frogger.prototype.render = function(){
   ctx.drawImage(Objects.get(this.sprite), this.x, this.y);
