@@ -9,8 +9,8 @@ Frogger
 Users may use the arrow keys to guide their frog across dangerous and busy highways in order to get to the finish line to score points. Each point increases the speed of the cars while 5 points will increase the player's lives by 1.
 
 ##List of technology used
-Javascript
-Canvas
+* Javascript
+* Canvas
 
 ##Implementation
 An issue I dealt with was how to deal with frogger death. It was easy to reset the frogger back at its starting position, but there was no time given for the user to realize they had been reset. This led to many walking right into traffic from 'button mashing'. I solved this issue by utilizing asynchronous methods provided by the Javascript library. As the frogger dies I set its died property to true.
@@ -52,6 +52,6 @@ function main(){
 }
 ```
 ##ToDos
-Music with a mute button
-Create Frog jump animation and facing different directions
-Create a water obstacle with logs and lily pads
+- Music with a mute button
+- Create Frog jump animation and facing different directions
+- Create a water obstacle with logs and lily pads
