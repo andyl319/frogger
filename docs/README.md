@@ -10,10 +10,11 @@ Frogger is a classic arcade game developed by Konami. It is a 1 player game that
 ### Functionality & MVP
 
 Users will be able to:
-- [ ] Start, pause, and reset the game
+- [ ] Reset the game
 - [ ] Move the frog around the grid
 - [ ] Lose by any of the aforementioned rules
-- [ ] Win by getting 5 frogs to the other side of the field
+- [ ] Score by getting frogs to the other side of the field
+- [ ] Increase difficulty each score
 
 In addition, the project will include:
 - [ ] An about modal describing how to play the game
