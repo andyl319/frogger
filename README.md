@@ -4,6 +4,9 @@ Frogger
 
 ####Play my version of the classic game frogger!
 
+![screenshot]
+[screenshot]: ./images/screenshot.png
+
 ##Instructions
 
 Users may use the arrow keys to guide their frog across dangerous and busy highways in order to get to the finish line to score points. Each point increases the speed of the cars while 5 points will increase the player's lives by 1.
